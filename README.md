@@ -1,5 +1,7 @@
 # sameenasam4567-Data_Analytics_April_Internship
 
+**Sameena_Dentist** Project Name
+
 
 Task 1
        First, we will gather data from a public website. Specifically, I am extracting information from YellowPages. The focus of my project is dentists in the city of Atlanta. We can achieve this by employing web scraping techniques, or alternatively, by utilizing instant web scraping extensions to extract data from public websites. When utilizing web scraping, you have the flexibility to select data according to your preferences. On the other hand, instant web scraping automatically selects data for you. After gathering the data, we will proceed to clean it using appropriate tools.
