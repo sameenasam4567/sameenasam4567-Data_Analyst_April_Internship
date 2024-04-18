@@ -1,9 +1,11 @@
 # sameenasam4567-Data_Analytics_April_Internship
 
-**Sameena_Dentist** Project Name 
+  **Task 1 -  
+                Project Name  :-     Sameena_Dentist** 
 
 
-**Task 1**
+
+      
        First, we will gather data from a public website. Specifically, I am extracting information from YellowPages. The focus of my project is dentists in the city of Atlanta. We can achieve this by employing web scraping techniques, or alternatively, by utilizing instant web scraping extensions to extract data from public websites. When utilizing web scraping, you have the flexibility to select data according to your preferences. On the other hand, instant web scraping automatically selects data for you. After gathering the data, we will proceed to clean it using appropriate tools.
 
        Web scraping involves extracting data from websites by parsing the HTML code of web pages. This technique allows us to gather specific information, such as contact details, prices, or product descriptions, from various websites for analysis or other purposes. Web scraping is commonly used in fields like research, data analysis, market intelligence, and competitor analysis.
@@ -11,10 +13,10 @@
 Instant scraping data extensions are browser extensions or plugins designed to simplify the process of data extraction from web pages. Unlike traditional web scraping, where users may need to write custom scripts or use specialized software, instant scraping extensions typically offer a user-friendly interface that allows users to select specific data elements on a webpage and extract them with a single click or action. These extensions are particularly useful for individuals who may not have coding skills but still need to gather data from websites efficiently. They can be employed for tasks such as extracting contact information, product details, or pricing from multiple web pages quickly and effortlessly.
 
 
-Task 2
 
 
-       Data Cleaning
+
+**Data Cleaning**
 
 
 
@@ -44,7 +46,7 @@ Task 2
 
 
 
-   **Task-2**
+   **Task-2        HousePricePrediction**
 
 In this next task, we'll be dealing with Excel data named "HousePricePrediction." Using PyCharm or we can also use Visual Studio. Now, we're ready to proceed with our analysis or any other tasks on the agenda.
 
